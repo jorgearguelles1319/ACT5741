@@ -1,0 +1,27 @@
+Big Oil is investing to scale up the world’s first zero-emissions fossil-fuel plant
+Capturing carbon dioxide.
+Capturing carbon dioxide.
+Image: Net Power
+ByAkshat Rathi
+PublishedNovember 8, 2018
+Finally, some of the largest oil companies aren’t just accepting the coming challenge of climate change but actively doing something about it. The latest example is the investments that Occidental Petroleum (often referred to as “Oxy”) has made in Net Power, a startup that built the world’s first zero-emissions fossil-fuel power plant in Texas.
+
+Earlier this year, Net Power fired up a $150-million power plant that burns natural gas but has the ability to capture 100% of its carbon emissions. As Quartz previously reported in a feature article, here’s how it works:
+
+ADVERTISEMENT
+
+In a small turbine, a combustor burns natural gas and pure oxygen—producing only carbon dioxide and water—in a chamber that’s already full of supercritical carbon dioxide at high pressure and temperature. That’s no small feat; it’s like trying to light a match while someone else is doing their best to put it out with an extinguisher. The combustion produces additional carbon dioxide, some water, and lots of heat. This hot, high-pressured mixture is then passed through a gas turbine, where the pressure turns a shaft to generate electricity.
+
+The slightly cooled mixture exits the turbine, then is separated into parts. The necessary amount of carbon dioxide is compressed to become supercritical again and added back to the initial chamber, keeping a steady amount of the gas circulating through the system. The remaining, pure stream of CO2 can be buried underground. And the (clean) water is dumped.
+
+The current pilot plant is capable of generating 25 MW of electricity, enough to power 20,000 typical US homes. But it’s a test facility, which means it doesn’t run all the time and thus provides electricity to the grid only intermittently. Net Power plans to build a larger power plant capable of generating 300 MW of continuous power for the grid.
+
+To do that, however, it’ll need hundreds of millions of dollars. Net Power declined to share the amount of money Oxy invested, but confirmed that the money will be used towards “operating and scaling the company.”
+
+ADVERTISEMENT
+
+The partnership will bring more to the table than just cash. Oxy is one of the largest oil companies that puts carbon dioxide to use—in this case, by injecting it in depleting oil fields to push out more oil. The system produces more fossil fuels, which are then burned for energy later on, but because the injected carbon dioxide mostly stays underground, the total carbon emissions of the system are lower than what conventional oil production and its use would produce. So now, Net Power has a partner to take and use the CO2 its system captures. (If you want to read more, Quartz published a series on carbon-capture technology last year.)
+
+Right now, only about 25% of all carbon dioxide injected underground in the US comes from human sources. The rest is mined from carbon dioxide fields. Earlier this year, Oxy signed an agreement with White Energy, a Texas-based biofuel producer, to take the latter’s carbon dioxide emissions and use them for oil-field injection. That partnership, along with this new Net Power deal, will advance the cause of replacing the use of naturally occurring carbon dioxide with CO2 produced by human activity.
+
+Oxy has signed the only two carbon-capture deals since major US legislation was passed in February to support the technology. It provides tax credits to up to $50 per metric ton of carbon dioxide buried—a price point at which many experts believe it makes more sense in a number of industries for emitters to bury their CO2 than dump it in the atmosphere.
