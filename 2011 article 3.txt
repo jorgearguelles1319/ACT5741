@@ -1,0 +1,121 @@
+
+Login / Join
+
+Is Occidental Petroleum's Stock a Bargain?
+AOL.com
+ANAND CHOKKAVELU, CFA, THE MOTLEY FOOL
+August 25, 2011, 11:24 AM
+Numbers can lie -- but they're the best first step in determining whether a stock is a buy. In this series, we use some carefully chosen metrics to size up a stock's true value based on the following clues:
+
+The current price multiples.
+
+The consistency of past earnings and cash flow.
+
+How much growth we can expect.
+
+Let's see what those numbers can tell us about how expensive or cheap Occidental Petroleum (NYS: OXY) might be.
+
+The current price multiples
+First, we'll look at most investors' favorite metric: the P/E ratio. It divides the company's share price by its earnings per share -- the lower, the better.
+
+Then, we'll take things up a notch with a more advanced metric: enterprise value to unlevered free cash flow. This divides the company's enterprise value (basically, its market cap plus its debt, minus its cash) by its unlevered free cash flow (its free cash flow, adding back the interest payments on its debt). Like the P/E, the lower this number is, the better.
+
+Analysts argue about which is more important -- earnings or cash flow. Who cares? A good buy ideally has low multiples on both.
+
+Occidental has a P/E ratio of 11.3 and an EV/FCF ratio of -32.2 over the trailing 12 months. If we stretch and compare current valuations to the five-year averages for earnings and free cash flow, Occidental has a P/E ratio of 13.0 and a five-year EV/FCF ratio of 54.3.
+
+A positive one-year ratio under 10 for both metrics is ideal. For a five-year metric, under 20 is ideal.
+
+Occidental has a mixed performance in hitting the ideal targets, but let's see how it compares against some competitors and industry mates.
+
+Company
+
+1-Year P/E
+
+1-Year EV/FCF
+
+5-Year P/E
+
+5-Year EV/FCF
+
+Occidental Petroleum
+
+11.3
+
+NM
+
+13.0
+
+54.3
+
+Devon Energy (NYS: DVN)
+
+4.5
+
+NM
+
+16.4
+
+>100
+
+ConocoPhillips (NYS: COP)
+
+7.5
+
+13.5
+
+18.0
+
+15.1
+
+ExxonMobil (NYS: XOM)
+
+9.0
+
+13.8
+
+9.6
+
+13.0
+
+Source: Capital IQ, a division of Standard & Poor's; NM = not meaningful.
+
+Numerically, we've seen how Occidental's valuation rates on both an absolute and relative basis. Next, let's examine ...
+
+The consistency of past earnings and cash flow
+An ideal company will be consistently strong in its earnings and cash flow generation.
+
+In the past five years, Occidental's net income margin has ranged from 21.1% to 29.5%. In that same time frame, unlevered free cash flow margin has ranged from -9.7% to 26.7%.
+
+How do those figures compare with those of the company's peers? See for yourself:
+
+
+anImage
+anImage
+Source: Capital IQ, a division of Standard & Poor's; margin ranges are combined.
+
+Additionally, over the last five years, Occidental has tallied up five years of positive earnings and three years of positive free cash flow.
+
+Next, let's figure out ...
+
+How much growth we can expect
+Analysts tend to comically overstate their five-year growth estimates. If you accept them at face value, you willoverpay for stocks. But while you should definitely take the analysts' prognostications with a grain of salt, they can still provide a useful starting point when compared to similar numbers from a company's closest rivals.
+
+Let's start by seeing what this company's done over the past five years. In that time period, Occidental has put up past EPS growth rates of 3.1%. Meanwhile, Wall Street's analysts expect future growth rates of 13.6%.
+
+Here's how Occidental compares to its peers for trailing five-year growth:
+
+anImage
+anImage
+Source: Capital IQ, a division of Standard & Poor's; EPS growth shown.
+
+And here's how it measures up with regard to the growth analysts expect over the next five years:
+
+anImage
+anImage
+Source: Capital IQ, a division of Standard & Poor's; estimates for EPS growth.
+
+The bottom line
+The pile of numbers we've plowed through has shown us the price multiples shares of Occidental are trading at, the volatility of its operational performance, and what kind of growth profile it has -- both on an absolute and a relative basis.
+
+The more consistent a company's performance has been and the more growth we can expect, the more we should be willing to pay. We've gone well beyond looking at a reasonable 11.3 P/E ratio, and we see its EV/FCF ratios aren't as cheap as its P/E ratios because of capital expenditures exceeding depreciation. That's not a big deal if the capex spend leads to more growth in the future (as analysts are estimating). If you find Occidental's numbers or story compelling, don't stop. Continue your due diligence process until you're confident one way or the other. As a start, add it to My Watchlist to find all of our Foolish analysis.
